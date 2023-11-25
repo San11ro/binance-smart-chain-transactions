@@ -1,4 +1,4 @@
-# binance-smart-chain-transactions
+# binance-smart-chain-transactions 
 The binance-smart-chain-transactions script simplifies transactions on the Binance Smart Chain (BSC), offering a straightforward tool for users to perform token transfers and interact with smart contracts. 
 
 Utilizing the Web3.py library for BSC, this script allows users to send BNB or other BEP-20 tokens, query balances, and interact with smart contracts. It serves as a practical foundation for developers and enthusiasts engaging with the Binance Smart Chain.
